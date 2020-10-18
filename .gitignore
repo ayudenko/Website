@@ -16,9 +16,9 @@
 ###< symfony/phpunit-bridge ###
 
 ###> git ###
-/.gitignore
+/composer.phar
 ###< git ###
 
 ###> idea ###
-.idea
+.idea/
 ###< idea ###
